@@ -5,9 +5,8 @@
   .item {
     display: flex;
     gap: 30px;
-    width: 350px;
     justify-content: space-between;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
   
   .number {
